@@ -1,1 +1,2 @@
 elastic/filebeat:8.14.1
+celaraze/chemex:latest
