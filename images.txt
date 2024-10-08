@@ -1,2 +1,2 @@
 elastic/filebeat:8.14.1
-celaraze/chemex:latest
+celaraze/mysql:5.7.23
